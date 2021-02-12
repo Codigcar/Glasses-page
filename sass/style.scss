@@ -1,2 +1,17 @@
 @import "components/header";
 @import "components/slider";
+@import "components/_container-products";
+@import "components/container-editor";
+@import "components/container-testimonials";
+@import "components/container-tips";
+@import "components/container-footer";
+
+/*
+ font-family: 'Inconsolata', monospace;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
+
+body {
+    font-family: 'Inconsolata', monospace;
+}
